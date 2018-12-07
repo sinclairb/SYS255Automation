@@ -1,1 +1,3 @@
-pscp c:\documents\info.txt userid@server.example.com:/tmp/foo/info.txt
+
+
+pscp <Path of Local File> user@IP:<Destination Path>
