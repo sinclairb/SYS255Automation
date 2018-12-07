@@ -1,0 +1,1 @@
+pscp c:\documents\info.txt userid@server.example.com:/tmp/foo/info.txt
